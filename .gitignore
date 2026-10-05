@@ -1,0 +1,13 @@
+.gitkeep
+.envrc
+.direnv
+.virtual_documents
+.claude/
+data/
+.venv-gpu/
+.ipynb_checkpoints/
+result
+docs/*.aux
+docs/*.log
+docs/*.out
+__pycache__/
